@@ -1,5 +1,0 @@
-{
-  "mcpServers": {
-    "turkiye": { "command": "npx", "args": ["-y", "mcp-turkiye@0.8.0"] }
-  }
-}
